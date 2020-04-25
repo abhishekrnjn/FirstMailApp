@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mail App</string>
+    <string name="to_edit_text_string">To</string>
+    <string name="subject_edit_text_string">Subject</string>
+    <string name="Message_edit_string">Message</string>
+    <string name="send_button_text">Send</string>
+</resources>
